@@ -1,0 +1,28 @@
+{
+
+  "parse": {
+  	"appId": "myAppId",
+    "serverUrl": "https://pure-brook-61570.herokuapp.com/parse"
+  },
+
+	"push": {
+		"appId": null,
+		"googleProjectNumber": null
+	},
+
+  "admob": {
+		"interstitialForAndroid": null,
+		"interstitialForiOS": null,
+    "bannerId": null
+	},
+
+	"gaTrackingId": null,
+
+	"theme": "nearme",
+
+	"unit": "mi",
+
+  "mapType": "normal",
+
+	"statusBarColor": "#e91e63"
+}

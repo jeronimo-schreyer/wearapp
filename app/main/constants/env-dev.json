@@ -1,0 +1,28 @@
+{
+
+  "parse": {
+  	"appId": "myAppId",
+    "serverUrl": "http://de2935ee.ngrok.io/parse"
+  },
+
+	"push": {
+		"appId": null,
+		"googleProjectNumber": null
+	},
+
+  "admob": {
+		"interstitialForAndroid": null,
+		"interstitialForiOS": null,
+    "bannerId": null
+	},
+
+	"gaTrackingId": null,
+
+	"theme": "nearme",
+
+	"unit": "mi",
+
+  "mapType": "normal",
+
+	"statusBarColor": "#1b68ea"
+}
